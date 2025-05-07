@@ -56,7 +56,7 @@ The script produces a PNG visualization showing:
 
 ## Example Output
 
-![Example Output](assets/Man_Utd_xGxGA_2024-2025_example.png)
+![Example Output](fbrefRollingXG&XGAExample.png)
 
 
 ## Attribution
