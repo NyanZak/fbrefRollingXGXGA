@@ -56,7 +56,7 @@ The script produces a PNG visualization showing:
 
 ## Example Output
 
-![Example Output](fbrefRollingXG&XGAExample.png)
+![Example Output]
 
 
 ## Attribution
